@@ -15,7 +15,8 @@ class Solution(object):
             if i in a.values():
                 b.append(i)
             elif i in a:
-                if b and b[-1]==a[i]
+                if b and b[-1]==a[i]:
+                    b.pop()
 
 
 
