@@ -14,8 +14,9 @@ class Solution(object):
             'M': 1000
         }
         a=0
+        b=len(s)
         for i in range(len(s)):
-            
+
 
 
 
