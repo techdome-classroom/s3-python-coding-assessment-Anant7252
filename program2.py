@@ -14,7 +14,8 @@ class Solution(object):
             'M': 1000
         }
         a=0
-        for i in range(len(s))
+        for i in range(len(s)):
+            
 
 
 
