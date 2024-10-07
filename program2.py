@@ -15,6 +15,7 @@ class Solution(object):
         }
         a=0
         b=len(s)
+        for i in range()
 
 
 
