@@ -19,7 +19,7 @@ class Solution(object):
             if i+1< c and a[s[i]]<a[s[i+1]]:
                 b=b-a[s[i]]
             else:
-                b=a[s[i]]+1
+                b=b+a[s[i]]
 
         return  b
 
