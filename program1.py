@@ -19,5 +19,4 @@ class Solution(object):
                     b.pop()
                 else:
                     return False
-                
         return not b
