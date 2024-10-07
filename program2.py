@@ -18,6 +18,8 @@ class Solution(object):
         for i in range(len(s)):
             if i+1< c and a[s[i]]<a[s[i+1]]:
                 b=a[s[i]]-1
+            else:
+                
 
 
 
