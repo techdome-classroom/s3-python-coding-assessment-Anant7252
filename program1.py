@@ -17,6 +17,8 @@ class Solution(object):
             elif i in a:
                 if b and b[-1]==a[i]:
                     b.pop()
+                else:
+                    return False
 
 
 
