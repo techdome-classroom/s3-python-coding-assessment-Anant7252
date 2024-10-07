@@ -15,7 +15,7 @@ class Solution(object):
             if i in a.values():
                 b.append(i)
             elif i in a:
-                
+                if 
 
 
 
