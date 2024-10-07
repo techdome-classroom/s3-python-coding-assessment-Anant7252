@@ -12,7 +12,7 @@ class Solution(object):
         b=[]
         
         for i in s:
-            if i in
+            if i in a.values()
 
 
 
