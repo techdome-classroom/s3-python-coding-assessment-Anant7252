@@ -5,7 +5,9 @@ class Solution(object):
         :rtype: bool
         """
         a={
-            
+            ')': '(', 
+            '}': '{',
+            ']': '['
         }
         pass
 
