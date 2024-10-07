@@ -16,7 +16,7 @@ class Solution(object):
         a=0
         b=len(s)
         for i in range(len(s)):
-            if i+1<b
+            if i+1< b and 
 
 
 
