@@ -15,7 +15,7 @@ class Solution(object):
             if i in a.values():
                 b.append(i)
             elif i in a:
-                if b and b[-1]
+                if b and b[-1]==a[i]
 
 
 
