@@ -13,8 +13,8 @@ class Solution(object):
             'D': 500,
             'M': 1000
         }
-        a=0
-        b=len(s)
+        b=0
+        c=len(s)
         for i in range(len(s)):
             if i+1< b and 
 
