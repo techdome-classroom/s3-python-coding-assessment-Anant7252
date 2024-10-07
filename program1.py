@@ -9,7 +9,7 @@ class Solution(object):
             '}': '{',
             ']': '['
         }
-        pass
+        b=[]
 
 
 
