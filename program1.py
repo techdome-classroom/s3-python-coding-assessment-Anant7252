@@ -14,7 +14,8 @@ class Solution(object):
         for i in s:
             if i in a.values():
                 b.append(i)
-            elif i in 
+            elif i in a:
+                
 
 
 
