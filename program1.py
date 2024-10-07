@@ -21,16 +21,3 @@ class Solution(object):
                     return False
                 
         return not b
-
-
-
-
-
-
-
-    
-
-
-
-  
-
