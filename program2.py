@@ -13,6 +13,8 @@ class Solution(object):
             'D': 500,
             'M': 1000
         }
+        a=0
+        b=len(s)
 
 
 
