@@ -22,11 +22,6 @@ class Solution(object):
         return not b
 
 
-
-
-
-
-
     
 
 
