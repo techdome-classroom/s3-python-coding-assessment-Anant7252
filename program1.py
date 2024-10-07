@@ -10,6 +10,9 @@ class Solution(object):
             ']': '['
         }
         b=[]
+        
+        for i in s:
+            
 
 
 
