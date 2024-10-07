@@ -21,7 +21,7 @@ class Solution(object):
             else:
                 b=a[s[i]]+1
 
-        return  
+        return  b
 
 
 
